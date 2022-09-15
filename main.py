@@ -1,2 +1,2 @@
-def hellowold():
-    return "Hello world"
+def Hellowold():
+    return "Hello world!"
